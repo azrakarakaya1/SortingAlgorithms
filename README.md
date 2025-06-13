@@ -1,2 +1,4 @@
-# SortingAlgorithms
-Analysis of Sorting Algorithms in C
+# Analysis of Sorting Algorithms in C
+
+--
+
